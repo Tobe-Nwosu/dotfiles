@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Tobe_nwosu@hotmail.co.uk
+	name = Tobe Nwosu
